@@ -1,0 +1,47 @@
+/* Hide mobile menu by default */
+.mobile-menu-overlay {
+  display: none;
+}
+.mt-n28-desktop {
+    margin-top: -28px !important;
+  }
+.mobile-menu-overlay.show {
+  display: block;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 80%;
+  height: 100%;
+  background-color: white;
+  z-index: 9999;
+  overflow-y: auto;
+  box-shadow: -3px 0 6px rgba(0, 0, 0, 0.1);
+}
+
+.mobile-menu-content {
+  height: 100%;
+  padding: 20px;
+}
+
+.btn-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+}
+
+.container{
+
+  @media (min-width: 992px) {
+  --bs-gutter-x: -0.5rem;
+  }
+
+
+}
+
+.custom-navbar-style {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  background-color: white;
+  border-radius: 10px;
+  height: 70px;
+}

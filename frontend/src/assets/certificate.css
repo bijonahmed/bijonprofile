@@ -1,0 +1,84 @@
+/* === Certification Section === */
+.certifications {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+}
+
+.section-title {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 40px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* === Certification Grid === */
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+/* === Certificate Cards === */
+.cert-card {
+  padding: 20px;
+  border-radius: 12px;
+  color: #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.cert-card h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.cert-card p {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.cert-card a {
+  color: #fff;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.cert-card:hover {
+  transform: translateY(-5px);
+}
+
+/* === Color Themes === */
+.card-purple {
+  background-color: #6c63ff;
+}
+
+.card-blue {
+  background-color: #3f51b5;
+}
+
+.card-orange {
+  background-color: #ff7043;
+}
+
+.card-green {
+  background-color: #4caf50;
+}
+
+.card-pink {
+  background-color: #ec407a;
+}
+
+.card-yellow {
+  background-color: #fbc02d;
+  color: #333;
+}
+
+.card-yellow a {
+  color: #333;
+}
+
+.card-cyan {
+  background-color: #00bcd4;
+}

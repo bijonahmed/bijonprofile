@@ -1,0 +1,16 @@
+.work-experience-container {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 0 8px;
+    color: #333;
+    line-height: 1.5;
+    font-size: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fafafa;
+    scroll-behavior: smooth;
+}
+
+.serviceOffer {
+    font-size: 12px;
+}
