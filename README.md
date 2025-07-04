@@ -37,7 +37,7 @@ I am passionate about problem-solving, clean code, and creating impactful digita
 
 - 🌐 Website: [futuregenit.com](https://www.futuregenit.com)
 - 💼 Fiverr: [fiverr.com/mdbijonahmed](https://www.fiverr.com/mdbijonahmed)
-- 💌 Email: bijon.dev@gmail.com
+- 💌 Email: mdbijon@gmail.com
 
 ---
 
