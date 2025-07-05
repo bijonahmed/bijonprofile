@@ -44,10 +44,16 @@ const projects = [
     link: "https://crypto.futuregenit.com/",
   },
   {
-    title: "OCCAN Trading and Mining Management",
+    title: "Ocean Trading and Mining Management",
     image: "/assets/img/projects/occn-trade.png",
-    link: "https://crypto.futuregenit.com/",
+    link: "https://oceantradeai.futuregenit.com/",
   },
+ {
+    title: "Ocean Trading and Mining Admin",
+    image: "/assets/img/projects/occn-trade_admin.png",
+    link: "https://admin.oceantradeai.futuregenit.com/",
+  },
+
   {
     title: "Courier Management",
     image: "/assets/img/projects/courier_management.png",
@@ -135,7 +141,7 @@ const Portfolio = () => {
                                 </div>
                                 <div className="text">
                                   <div className="info">
-                                    <a href="#" className="title">
+                                    <a href={project.link} target="_blank" className="title">
                                       {project.title}
                                     </a>
                                   </div>
