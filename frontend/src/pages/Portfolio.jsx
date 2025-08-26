@@ -77,9 +77,9 @@ const projects = [
   },
 
   {
-    title: "Freelancer Marketplace",
-    image: "/assets/img/projects/isumax_img.png",
-    link: "https://isumax.com/",
+    title: "Ecommerce Marketplace",
+    image: "/assets/img/projects/vogexi_img.png",
+    link: "https://vogexi.com/",
   },
 
   // Add more projects as needed

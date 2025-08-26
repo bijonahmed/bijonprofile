@@ -171,14 +171,14 @@ const Index = () => {
                             <div className="project-item">
                               <div className="image">
                                 <img
-                                  src="/assets/img/projects/isumax_img.png"
+                                  src="/assets/img/projects/vogexi_img.png"
                                   alt="project-1"
                                   className="img-fluid w-100"
                                 />
                                 
                                 <div className="info">
                                   <span className="category">
-                                    Freelancer Market Place
+                                  <a href="https://vogexi.com/" target="_blank">Ecommerce Platform B2C</a>
                                   </span>
                                 </div>
                               </div>
@@ -194,7 +194,8 @@ const Index = () => {
                                 />
                                 <div className="info">
                                   <span className="category">
-                                    PDF Tools
+                                   
+                                    <a href="https://twopdf.com/" target="_blank"> PDF Tools</a>
                                   </span>
                                 </div>
                               </div>
@@ -209,7 +210,8 @@ const Index = () => {
                                 />
                                 <div className="info">
                                   <span className="category">
-                                    Trading Platform
+                                   
+                                    <a href="https://oceantradeai.futuregenit.com/" target="_blank">  Trading Platform</a>
                                   </span>
                                 </div>
                               </div>
