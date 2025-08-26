@@ -65,7 +65,7 @@ const CardProfile = () => {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/in/bijon-ahmed/"
+                  href="https://www.linkedin.com/in/bijonahmed/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"
