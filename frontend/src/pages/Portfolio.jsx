@@ -12,10 +12,21 @@ import CardProfile from "../components/CardProfile";
 import BackgroundShape from "../components/BackgroundShape";
 
 const projects = [
+  
   {
-    title: "Employee Management Software",
-    image: "/assets/img/projects/top_employee_management.png",
-    link: "https://futuregenit.com/documents/hr/",
+    title: "Ecommerce Marketplace",
+    image: "/assets/img/projects/vogexi_img.png",
+    link: "https://vogexi.com/",
+  },
+  {
+    title: "Resort Management System",
+    image: "/assets/img/projects/moon-nest-frontend.png",
+    link: "https://test.moon-nest.com/",
+  },
+  {
+    title: "Resort Management System Admin",
+    image: "/assets/img/projects/moon-nest-admin.png",
+    link: "https://admin78969.moon-nest.com/",
   },
   {
     title: "Dropshipping Admin Panel",
@@ -48,7 +59,7 @@ const projects = [
     image: "/assets/img/projects/occn-trade.png",
     link: "https://oceantradeai.futuregenit.com/",
   },
- {
+  {
     title: "Ocean Trading and Mining Admin",
     image: "/assets/img/projects/occn-trade_admin.png",
     link: "https://admin.oceantradeai.futuregenit.com/",
@@ -74,14 +85,7 @@ const projects = [
     title: "PDF Convert Tools",
     image: "/assets/img/projects/pdf_tools.png",
     link: "https://twopdf.com/",
-  },
-
-  {
-    title: "Ecommerce Marketplace",
-    image: "/assets/img/projects/vogexi_img.png",
-    link: "https://vogexi.com/",
-  },
-
+  }
   // Add more projects as needed
 ];
 
@@ -188,7 +192,7 @@ const Portfolio = () => {
             </div>
           </section>
           {/* background shape area start */}
-          <BackgroundShape/>
+          <BackgroundShape />
           {/* background shape area end */}
         </main>
 
