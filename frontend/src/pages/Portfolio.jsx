@@ -71,7 +71,7 @@ const projects = [
     link: "https://futuregenit.com/service-details/efficient-courier-delivery-management-software-solutions",
   },
   {
-    title: "Simple Inventory Management",
+    title: "Account Management System",
     image: "/assets/img/projects/account_management.png",
     link: "https://account.onlinesoft.co.uk/login",
   },
