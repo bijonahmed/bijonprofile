@@ -14,50 +14,50 @@ import BackgroundShape from "../components/BackgroundShape";
 const projects = [
   
   {
-    title: "Ecommerce Marketplace",
-    image: "/assets/img/projects/vogexi_img.png",
-    link: "https://vogexi.com/",
+    title: "Ecommerce V-1",
+    image: "/assets/img/projects/v1-ecommarce.png",
+    link: "https://products.futuregenit.com/ecommarce_v1/",
   },
+
+    {
+    title: "Ecommerce V-2",
+    image: "/assets/img/projects/v2-ecommarce.png",
+    link: "https://products.futuregenit.com/ecommarce_v2/",
+  },
+
+
+
   {
     title: "Resort Management System",
     image: "/assets/img/projects/moon-nest-frontend.png",
-    link: "https://test.moon-nest.com/",
+    link: "https://products.futuregenit.com/hotel_management/",
   },
   {
     title: "Resort Management System Admin",
     image: "/assets/img/projects/moon-nest-admin.png",
-    link: "https://admin78969.moon-nest.com/",
+    link: "https://products.futuregenit.com/hotel_management/",
   },
   {
     title: "Dropshipping Admin Panel",
-    image: "/assets/img/projects/dropshipping_admin_panel.png",
-    link: "https://futuregenit.com/documents/hr/",
+    image: "/assets/img/projects/dropshippingadmin.png",
+    link: "https://products.futuregenit.com/DropShippingAdmin/",
   },
 
   {
-    title: "B2B Ecommerce Management System",
-    image: "/assets/img/projects/b2b_Commerce.png",
-    link: "https://futuregenit.com/documents/Ekroybd/",
+    title: "Hospital Management",
+    image: "/assets/img/projects/hms.png",
+    link: "https://products.futuregenit.com/hms",
+  },
+  
+  {
+    title: "Deshremit remittance Management",
+    image: "/assets/img/projects/remittance.png",
+    link: "https://products.futuregenit.com/deshromit/",
   },
   {
-    title: "POS Management",
-    image: "/assets/img/projects/pos_management.png",
-    link: "https://futuregenit.com/documents/POS_Documents/",
-  },
-  {
-    title: "Transportation Management",
-    image: "/assets/img/projects/transport_management.png",
-    link: "https://futuregenit.com/documents/Transport_management_Documents/",
-  },
-  {
-    title: "Crypto Trading Management",
-    image: "/assets/img/projects/tradingcrypto.png",
-    link: "https://crypto.futuregenit.com/",
-  },
-  {
-    title: "Ocean Trading and Mining Management",
-    image: "/assets/img/projects/occn-trade.png",
-    link: "https://oceantradeai.futuregenit.com/",
+    title: "DropShipping Management",
+    image: "/assets/img/projects/dropshippingadmin.png",
+    link: "https://products.futuregenit.com/DropShippingAdmin/",
   },
   {
     title: "Ocean Trading and Mining Admin",
@@ -68,7 +68,7 @@ const projects = [
   {
     title: "Courier Management",
     image: "/assets/img/projects/courier_management.png",
-    link: "https://futuregenit.com/service-details/efficient-courier-delivery-management-software-solutions",
+    link: "https://products.futuregenit.com/courier/",
   },
   {
     title: "Account Management System",

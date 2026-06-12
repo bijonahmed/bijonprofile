@@ -13,11 +13,25 @@ const CardProfile = () => {
         </div>
         <div className="text">
           <h3 className="card-title">Md. Bijon Ahmed</h3>
-          <p className="card-text">
+          <p
+            className="card-text"
+            style={{
+              fontSize: "13px",
+              fontWeight: "600",
+              color: "#4770FF",
+              lineHeight: "1.5",
+              marginBottom: "8px",
+            }}
+          >
+            Full Stack Developer &amp; AI Automation Engineer | Laravel, React,
+            Next.js, Vue.js, Node.js | ERP, SaaS &amp; Business Process
+            Automation | Building Scalable Digital Solutions
+          </p>
+          {/* <p className="card-text">
             Full Stack Developer specializing in modern web technologies
             including React, Nuxt , Laravel, and API integration. Passionate
             about building scalable and high-performance applications.
-          </p>
+          </p> */}
           <div className="common-button-groups">
             <a className="btn btn-call w-100" href="/assets/cv/download_bijon_cv.pdf">
               Download Resume

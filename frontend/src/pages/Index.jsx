@@ -41,12 +41,12 @@ const Index = () => {
           <section className="home-area">
             <div className="container">
               <div className="row g-4">
-                <div className="col-xl-4">
+                <div className="col-12 col-md-6 col-lg-4 col-xl-4">
                   <CardProfile/>
                 </div>
-                <div className="col-xl-4">
+                <div className="col-12 col-md-6 col-lg-8 col-xl-4">
                   <div className="row g-4">
-                    <div className="col-lg-12">
+                    <div className="col-12">
                       <div className="card">
                         <div className="card-body work-experiance-card">
                           <h3
@@ -74,7 +74,7 @@ const Index = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="col-lg-12">
+                    <div className="col-12">
                       <div className="card expertise-card">
                         <div className="card-body">
                           <h3 className="card-title">My Expert Area</h3>
@@ -126,7 +126,7 @@ const Index = () => {
                     </div>
                   </div>
                 </div>
-                <div className="col-xl-4">
+                <div className="col-12 col-lg-12 col-xl-4">
                   <div className="card card-projects">
                     <div className="card-body">
                       <h3 className="card-title">
@@ -171,14 +171,14 @@ const Index = () => {
                             <div className="project-item">
                               <div className="image">
                                 <img
-                                  src="/assets/img/projects/vogexi_img.png"
+                                  src="/assets/img/projects/usaskills.png"
                                   alt="project-1"
                                   className="img-fluid w-100"
                                 />
                                 
                                 <div className="info">
                                   <span className="category">
-                                  <a href="https://vogexi.com/" target="_blank">Ecommerce Platform B2C</a>
+                                  <a href="https://usaskillsinc.com/" target="_blank">USA SKILLS Learning Platform</a>
                                   </span>
                                 </div>
                               </div>
@@ -204,14 +204,14 @@ const Index = () => {
                             <div className="project-item mt-4">
                               <div className="image">
                                 <img
-                                  src="/assets/img/projects/occn-trade.png"
+                                  src="/assets/img/projects/quran.png"
                                   alt="project-2"
                                   className="img-fluid w-100"
                                 />
                                 <div className="info">
                                   <span className="category">
                                    
-                                    <a href="https://oceantradeai.futuregenit.com/" target="_blank">  Trading Platform</a>
+                                    <a href="https://thedailyquran.com/" target="_blank">  The Daily Quran </a>
                                   </span>
                                 </div>
                               </div>
@@ -225,7 +225,7 @@ const Index = () => {
               </div>
               <div className="services-area mt-24">
                 <div className="row g-4">
-                  <div className="col-xl-8">
+                  <div className="col-12 col-lg-12 col-xl-8">
                     <div className="card services-card">
                       <div className="card-body">
                         <h3 className="card-title">
@@ -359,7 +359,7 @@ const Index = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="col-xl-4">
+                  <div className="col-12 col-lg-12 col-xl-4">
                     <div className="card lets-talk-together-card">
                       <div className="card-body">
                         <div className="slider-item">

@@ -14,3 +14,16 @@
 .serviceOffer {
     font-size: 12px;
 }
+
+@media (max-width: 767.98px) {
+    .work-experience-container {
+        max-height: none;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .serviceOffer {
+        font-size: 11px;
+    }
+}
